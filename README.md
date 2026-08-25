@@ -1,92 +1,89 @@
 # Hi there, I'm Sankeerth Nara 👋
 
-🎓 **First-year Computer Science student at IIIT Hyderabad**
+🎓 **Second-year Computer Science student at IIIT Hyderabad**  
+💻 **Backend · Full-Stack · AI/CV**
 
-I'm a software developer passionate about building practical applications, exploring modern technologies, and contributing to open source. My interests include **Backend Development**, **Full-Stack Web Development**, **Artificial Intelligence**, **Computer Vision**, and **Open Source**.
-
-I'm always looking for opportunities to learn, collaborate, and build impactful software.
+I'm a software developer passionate about building practical applications, exploring modern technologies, and contributing to open source. My interests lie in **Backend Development**, **Artificial Intelligence**, and **Computer Vision**, tackling meaningful real-world problems with careful attention to detail.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎮 Command-Line Twixt
-Implemented the classic strategy board game **Twixt** as a command-line application featuring complete game logic, move validation, and an interactive gameplay experience.
+### 🎮 [Command-Line Twixt](https://github.com/SankeerthNara/CLI-twixt)
+Implemented the classic strategy board game **Twixt** as a command-line application featuring complete game logic, move validation, and an interactive gameplay experience.  
 **Tech Stack:** C
 
 ---
 
-### 🌐 Portfolio Website
-Designed and developed my personal portfolio website to showcase my projects, technical skills, and achievements through a clean, modern, and responsive interface.
-**Tech Stack:** HTML, CSS, JavaScript
+### 🌐 [Portfolio Website](https://www.sankeerthnara.in)
+Designed and developed my personal portfolio to showcase projects, technical skills, and achievements through a clean, modern, and responsive interface.  
+**Tech Stack:** HTML, CSS, JavaScript | [Code](https://github.com/SankeerthNara/portfolio)
 
 ---
 
-### 🤖 Face Recognition Authorized Tic-Tac-Toe
-Developed a multiplayer Tic-Tac-Toe application that authenticates players using facial recognition before gameplay, combining computer vision with interactive game development.
+### 🤖 [Face Recognition Tic-Tac-Toe](https://github.com/SankeerthNara/tic-tac-toe)
+A multiplayer Tic-Tac-Toe application that authenticates players using facial recognition before gameplay, combining computer vision with interactive game development.  
 **Tech Stack:** Python, OpenCV, DeepFace
 
 ---
 
-### 🏸 Shuttle Court Slot Booking System
-Built a web application for my residential colony that enables residents to reserve badminton shuttle court slots online, simplifying scheduling and reducing booking conflicts.
-**Tech Stack:** HTML, CSS, JavaScript
+### 🏸 [Shuttle Court Slot Booking](https://www.sdstpscourt.xyz)
+A web application for a residential colony that enables residents to reserve badminton court slots online, simplifying scheduling and reducing booking conflicts.  
+**Tech Stack:** HTML, CSS, JavaScript | [Code](https://github.com/SankeerthNara/Shuttle)
 
 ---
 
-## 🤝 Open Source Contributions
+### 🎵 [Command-Line Music Player](https://github.com/SankeerthNara/Command-Line-Music-Player)
+A lightweight command-line music player supporting playback controls including play/pause, track skipping, and playlist navigation.  
+**Tech Stack:** C
 
-### 🔒 Loomy
-- Identified and fixed an **IDOR vulnerability** ([#25](https://github.com/Devlaner/loomy/issues/25)) where any authenticated user could retrieve another user's email address and verification status by guessing their UUID — gated the endpoint behind workspace membership and added a reduced public response shape.
-- Added a **Postgres-backed regression test suite** (transactional per-test fixtures, DB and auth dependency overrides) and wired a **Postgres service into GitHub Actions CI**, since none existed for the module before.
+---
 
-### 🧠 Mnema
-- Added **relative timestamp with hover-for-absolute-time** display for improved readability.
-- Improved **empty states with icons** across the UI for a more polished, informative experience.
+## 🤝 Top Open Source Contributions
+*33+ Merged Pull Requests across active open-source repositories ([View all on GitHub](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3ASankeerthNara&type=pullrequests))*
 
-### 🗄️ db (IN3PIRE)
-- Updated **CHANGELOG.md** to reflect recent project changes.
+* **Microsoft ([aspire](https://github.com/microsoft/aspire))**
+  * Added trusted fast path for extension release PRs ([#19608](https://github.com/microsoft/aspire/pull/19608))
+  * Surfaced deploy, publish, and pipeline actions in Aspire pane ([#19466](https://github.com/microsoft/aspire/pull/19466))
+  * Exposed Aspire project creation workflows ([#19539](https://github.com/microsoft/aspire/pull/19539))
+  * Prompted for an AppHost when a directory launch is ambiguous ([#19541](https://github.com/microsoft/aspire/pull/19541))
 
-### 🌍 CircuitVerse
-- Fixed and improved the **Hindi language localization**, making the platform more accessible for Hindi-speaking users.
+* **Mozilla ([firefox-ios](https://github.com/mozilla-mobile/firefox-ios))**
+  * Refactored Microsurvey state to utilize `@Copyable` macros ([#35109](https://github.com/mozilla-mobile/firefox-ios/pull/35109))
+  * Cleaned up dead engine and service methods in translations ([#34812](https://github.com/mozilla-mobile/firefox-ios/pull/34812))
+  * Removed obsolete notification and Glean telemetry wrapper functions ([#34830](https://github.com/mozilla-mobile/firefox-ios/pull/34830), [#34822](https://github.com/mozilla-mobile/firefox-ios/pull/34822))
 
-### 📄 kakunin-mcp
-- Created and added a comprehensive **ROADMAP.md** outlining the project's future direction and development milestones.
+* **Google ([xrblocks](https://github.com/google/xrblocks))**
+  * Resolved read-buffer composition bugs in `OcclusionPass` ([#533](https://github.com/google/xrblocks/pull/533))
 
-### 🛒 CureCart
-- Enhanced the **About Us** page and rewrote it to a more professional version.
-- Designed and added a professional **README banner** to improve the repository's presentation.
+* **7-Blocks ([Kepler](https://github.com/7-Blocks/Kepler))**
+  * Implemented an interactive spotlight effect for satellite hover/selection ([#142](https://github.com/7-Blocks/Kepler/pull/142))
+  * Built a global keyboard shortcut system ([#119](https://github.com/7-Blocks/Kepler/pull/119))
+  * Designed a custom branded 404 page featuring an animated orbital debris scene ([#47](https://github.com/7-Blocks/Kepler/pull/47))
+
+* **Devlaner ([Loomy](https://github.com/Devlaner/loomy))**
+  * Patched an IDOR vulnerability exposing user emails/verification states behind workspace membership checks ([#40](https://github.com/Devlaner/loomy/pull/40))
+
+* **IN3PIRE ([db](https://github.com/IN3PIRE/db))**
+  * Added `--json` output flags to `db connect`, `config list`, `project list`, and `project inspect` CLI commands ([#68](https://github.com/IN3PIRE/db/pull/68), [#67](https://github.com/IN3PIRE/db/pull/67), [#66](https://github.com/IN3PIRE/db/pull/66))
+  * Integrated interactive terminal spinners for database queries ([#65](https://github.com/IN3PIRE/db/pull/65))
+
+* **Termix ([Termix](https://github.com/Termix-SSH/Termix))**
+  * Added an "Open File Manager" context action directly from terminal sessions ([#1046](https://github.com/Termix-SSH/Termix/pull/1046))
+  * Fixed autocomplete contrast and legibility across diverse UI themes ([#1061](https://github.com/Termix-SSH/Termix/pull/1061))
 
 ---
 
 ## 💻 Technical Skills
 
-### Languages
-- C
-- C++
-- Python
-- JavaScript
-- TypeScript
-- HTML
-- CSS
+**Languages**  
+C, C++, Python, JavaScript, SQL, HTML, CSS, Git-Bash
 
-### Tools & Technologies
-- Git
-- GitHub
-- GitHub Actions (CI/CD)
-- React
-- FastAPI
-- SQLAlchemy
-- PostgreSQL
-- OpenCV
-- DeepFace
+**Tools & Frameworks**  
+Git, GitHub, GitHub Actions, React, FastAPI, DeepFace
 
-### Currently Learning
-- Node.js
-- Backend Development
-- Artificial Intelligence
-- Computer Vision
-- Open Source
+**Currently Learning**  
+Node.js, Backend Systems, Artificial Intelligence, Computer Vision, Open Source Architecture
 
 ---
 
@@ -100,11 +97,8 @@ Built a web application for my residential colony that enables residents to rese
 ---
 
 ## 📫 Connect With Me
-- **GitHub:** https://github.com/SankeerthNara
-- **LinkedIn:** https://www.linkedin.com/in/sankeerth-nara-412ab3373/
-- **Portfolio:** https://sankeerthnara.in
-- **GitHub Pages:** https://sankeerthnara.github.io
-
----
-
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories, check out my projects, and connect with me.**
+- **Portfolio:** [sankeerthnara.in](https://www.sankeerthnara.in)
+- **GitHub:** [@SankeerthNara](https://github.com/SankeerthNara)
+- **LinkedIn:** [sankeerth-nara](https://www.linkedin.com/in/sankeerth-nara-412ab3373/)
+- **Instagram:** [@sankeerth_nara](https://www.instagram.com/sankeerth_nara/)
+- **Email:** [sankeerthnara@gmail.com](mailto:sankeerthnara@gmail.com)

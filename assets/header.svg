@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="210" viewBox="0 0 880 210" role="img">
+<style>
+text{font-family:'Segoe UI', 'Inter', system-ui, -apple-system, sans-serif}
+.rise{opacity:0;animation:rise .7s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important;transform:none!important}}
+.bar{width:0;animation:grow 1.1s .5s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes grow{to{width:220px}}
+.r0{animation:role 12.8s 0s infinite;opacity:0}
+.r1{animation:role 12.8s 3.2s infinite;opacity:0}
+.r2{animation:role 12.8s 6.4s infinite;opacity:0}
+.r3{animation:role 12.8s 9.600000000000001s infinite;opacity:0}
+@keyframes role{0%{opacity:0;transform:translateY(6px)}3.13%{opacity:1;transform:none}21.87%{opacity:1}25.00%,100%{opacity:0}}
+.caret{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+.orb{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-in-out infinite}
+@keyframes pulse{0%,100%{transform:scale(1);opacity:.6}50%{transform:scale(1.35);opacity:1}}
+</style>
+<rect x=".5" y=".5" width="879" height="209" rx="18" fill="#0e0e0e" stroke="#2a2a2a"/>
+<g transform="translate(44 0)">
+  <text x="0" y="62" fill="#9a978f" font-size="15" class="rise" style="animation-delay:.1s">hi, i'm</text>
+  <text x="0" y="118" fill="#f3f1ec" font-size="54" font-weight="800" letter-spacing="-1.5" class="rise" style="animation-delay:.25s">sankeerth nara</text>
+  <rect x="0" y="134" height="4" rx="2" fill="#f5b52e" class="bar"/>
+  <g font-size="19" fill="#f3f1ec">
+    <text x="0" y="172" class="r0">on-device computer vision<tspan fill="#f5b52e" class="caret">▍</tspan></text>
+    <text x="0" y="172" class="r1">open source · microsoft · mozilla · google<tspan fill="#f5b52e" class="caret">▍</tspan></text>
+    <text x="0" y="172" class="r2">backend and full-stack systems<tspan fill="#f5b52e" class="caret">▍</tspan></text>
+    <text x="0" y="172" class="r3">research: measure the object, not the scene<tspan fill="#f5b52e" class="caret">▍</tspan></text>
+  </g>
+</g>
+<g transform="translate(690 44)"><g class="rise" style="animation-delay:.6s">
+  <text x="0" y="0" fill="#9a978f" font-size="13">cse @ iiit hyderabad</text>
+  <text x="0" y="22" fill="#9a978f" font-size="13">hyderabad, india</text>
+</g></g>
+<g transform="translate(760 120)">
+  <circle cx="0" cy="20" r="7" fill="none" stroke="#2a2a2a" stroke-width="2" class="orb" style="animation-delay:0s"/><circle cx="26" cy="20" r="7" fill="none" stroke="#f5b52e" stroke-width="2" class="orb" style="animation-delay:0.25s"/><circle cx="52" cy="20" r="7" fill="none" stroke="#2a2a2a" stroke-width="2" class="orb" style="animation-delay:0.5s"/>
+</g>
+</svg>

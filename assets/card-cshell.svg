@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="196" viewBox="0 0 430 196" role="img">
+<style>
+text{font-family:'Segoe UI', 'Inter', system-ui, -apple-system, sans-serif}
+.rise{opacity:0;animation:rise .7s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important;opacity:1!important;transform:none!important}}
+.bar{animation:grow .9s 0.30000000000000004s cubic-bezier(.2,.7,.2,1) forwards}@keyframes grow{to{width:48px}}
+.arrow{animation:nudge 2.8s 1.2s ease-in-out infinite}@keyframes nudge{0%,100%{transform:translate(386px,40px)}50%{transform:translate(389px,37px)}}
+</style>
+<rect x=".5" y=".5" width="429" height="195" rx="18" fill="#0e0e0e" stroke="#2a2a2a"/>
+<rect x="28" y="30" width="0" height="3" rx="1.5" fill="#f5b52e" class="bar"/>
+<text x="28" y="66" fill="#f3f1ec" font-size="22" font-weight="800" letter-spacing="-.5" class="rise" style="animation-delay:.1s">C Shell + xv6 scheduler</text>
+<text x="28" y="88" fill="#f5b52e" font-size="12.5" class="rise" style="animation-delay:.2s">systems</text>
+<text x="28" y="118" fill="#9a978f" font-size="13.5" class="rise" style="animation-delay:0.3s">POSIX shell in C: automata lexer, pipes,</text>
+<text x="28" y="137" fill="#9a978f" font-size="13.5" class="rise" style="animation-delay:0.38s">redirection, job control, signals, ptrace;</text>
+<text x="28" y="156" fill="#9a978f" font-size="13.5" class="rise" style="animation-delay:0.45999999999999996s">plus a scheduler extension for xv6-RISC-V.</text>
+<text x="28" y="178" fill="#f3f1ec" font-size="12" opacity=".7" class="rise" style="animation-delay:.6s">C · POSIX · xv6</text>
+<g transform="translate(386 40)" class="arrow"><circle r="14" fill="none" stroke="#2a2a2a"/><path d="M-4 4 L4 -4 M-3 -4 H4 V3" stroke="#f3f1ec" stroke-width="1.6" fill="none" stroke-linecap="round"/></g>
+</svg>

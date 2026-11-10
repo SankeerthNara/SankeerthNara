@@ -35,7 +35,7 @@ Second-year CSE student at **IIIT Hyderabad**. I work on **on-device computer vi
 Click a repository to see every merged pull request.
 
 <details open>
-<summary><b>Termix-SSH/Termix</b> · 2 merged · ★ 15,895 · TypeScript</summary>
+<summary><b>Termix-SSH/Termix</b> · 2 merged · ★ 15,916 · TypeScript</summary>
 
 > Self-hosted, plugin-based server management.
 
@@ -45,7 +45,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details open>
-<summary><b>mozilla-mobile/firefox-ios</b> · 4 merged · ★ 13,066 · Swift</summary>
+<summary><b>mozilla-mobile/firefox-ios</b> · 4 merged · ★ 13,068 · Swift</summary>
 
 > Firefox for iOS
 
@@ -57,7 +57,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details open>
-<summary><b>microsoft/aspire</b> · 5 merged · ★ 6,408 · C#</summary>
+<summary><b>microsoft/aspire</b> · 5 merged · ★ 6,412 · C#</summary>
 
 > Aspire is the tool for code-first, extensible, observable dev and deploy.
 
@@ -70,7 +70,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details>
-<summary><b>microsoft/hve-core</b> · 1 merged · ★ 1,607 · PowerShell</summary>
+<summary><b>microsoft/hve-core</b> · 1 merged · ★ 1,610 · PowerShell</summary>
 
 > A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of GitHub Copilot
 
@@ -97,7 +97,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details>
-<summary><b>7-Blocks/Kepler</b> · 3 merged · ★ 58 · TypeScript</summary>
+<summary><b>7-Blocks/Kepler</b> · 3 merged · ★ 59 · TypeScript</summary>
 
 > AI-Powered Autonomous Space Traffic Management Platform
 
@@ -202,4 +202,4 @@ Click a repository to see every merged pull request.
 
 `Python` `C` `C++` `TypeScript` `Kotlin` `PyTorch` `OpenCV` `YOLO / SAM` `Qualcomm QNN` `FastAPI` `Next.js` `React` `MongoDB` `PostgreSQL` `Linux` `GitHub Actions`
 
-<sub>Refreshed daily by a GitHub Action · last update 2026-11-09</sub>
+<sub>Refreshed daily by a GitHub Action · last update 2026-11-10</sub>

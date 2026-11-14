@@ -10,16 +10,19 @@ text{font-family:'Segoe UI', 'Inter', system-ui, -apple-system, sans-serif}
 <rect x=".5" y=".5" width="879" height="229" rx="18" fill="#0e0e0e" stroke="#2a2a2a"/>
 <text x="44" y="46" fill="#9a978f" font-size="14" class="rise">merged prs per month</text>
 <line x1="44" y1="170" x2="836" y2="170" stroke="#2a2a2a"/>
-<g><rect x="120.0" y="60.0" width="46.0" height="110.0" rx="5" fill="#f5b52e" opacity="1" class="up" style="animation-delay:0.2s"/>
-  <text x="143.0" y="52.0" fill="#f5b52e" font-size="12" text-anchor="middle" class="rise" style="animation-delay:0.6s">22</text>
-  <text x="143.0" y="194" fill="#9a978f" font-size="12" text-anchor="middle">jul</text></g>
-<g><rect x="318.0" y="120.0" width="46.0" height="50.0" rx="5" fill="#f3f1ec" opacity="0.8" class="up" style="animation-delay:0.28s"/>
-  <text x="341.0" y="112.0" fill="#9a978f" font-size="12" text-anchor="middle" class="rise" style="animation-delay:0.6799999999999999s">10</text>
-  <text x="341.0" y="194" fill="#9a978f" font-size="12" text-anchor="middle">aug</text></g>
-<g><rect x="516.0" y="165.0" width="46.0" height="5.0" rx="5" fill="#f3f1ec" opacity="0.8" class="up" style="animation-delay:0.36s"/>
-  <text x="539.0" y="157.0" fill="#9a978f" font-size="12" text-anchor="middle" class="rise" style="animation-delay:0.76s">1</text>
-  <text x="539.0" y="194" fill="#9a978f" font-size="12" text-anchor="middle">sep</text></g>
-<g><rect x="714.0" y="165.0" width="46.0" height="5.0" rx="5" fill="#f3f1ec" opacity="0.8" class="up" style="animation-delay:0.44s"/>
-  <text x="737.0" y="157.0" fill="#9a978f" font-size="12" text-anchor="middle" class="rise" style="animation-delay:0.84s">1</text>
-  <text x="737.0" y="194" fill="#9a978f" font-size="12" text-anchor="middle">oct</text></g>
+<g><rect x="100.2" y="60.0" width="46.0" height="110.0" rx="5" fill="#f5b52e" opacity="1" class="up" style="animation-delay:0.2s"/>
+  <text x="123.2" y="52.0" fill="#f5b52e" font-size="12" text-anchor="middle" class="rise" style="animation-delay:0.6s">22</text>
+  <text x="123.2" y="194" fill="#9a978f" font-size="12" text-anchor="middle">jul</text></g>
+<g><rect x="258.6" y="120.0" width="46.0" height="50.0" rx="5" fill="#f3f1ec" opacity="0.8" class="up" style="animation-delay:0.28s"/>
+  <text x="281.6" y="112.0" fill="#9a978f" font-size="12" text-anchor="middle" class="rise" style="animation-delay:0.6799999999999999s">10</text>
+  <text x="281.6" y="194" fill="#9a978f" font-size="12" text-anchor="middle">aug</text></g>
+<g><rect x="417.0" y="165.0" width="46.0" height="5.0" rx="5" fill="#f3f1ec" opacity="0.8" class="up" style="animation-delay:0.36s"/>
+  <text x="440.0" y="157.0" fill="#9a978f" font-size="12" text-anchor="middle" class="rise" style="animation-delay:0.76s">1</text>
+  <text x="440.0" y="194" fill="#9a978f" font-size="12" text-anchor="middle">sep</text></g>
+<g><rect x="575.4" y="165.0" width="46.0" height="5.0" rx="5" fill="#f3f1ec" opacity="0.8" class="up" style="animation-delay:0.44s"/>
+  <text x="598.4" y="157.0" fill="#9a978f" font-size="12" text-anchor="middle" class="rise" style="animation-delay:0.84s">1</text>
+  <text x="598.4" y="194" fill="#9a978f" font-size="12" text-anchor="middle">oct</text></g>
+<g><rect x="733.8" y="165.0" width="46.0" height="5.0" rx="5" fill="#f3f1ec" opacity="0.8" class="up" style="animation-delay:0.52s"/>
+  <text x="756.8" y="157.0" fill="#9a978f" font-size="12" text-anchor="middle" class="rise" style="animation-delay:0.9199999999999999s">1</text>
+  <text x="756.8" y="194" fill="#9a978f" font-size="12" text-anchor="middle">nov</text></g>
 </svg>

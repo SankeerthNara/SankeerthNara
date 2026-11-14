@@ -10,7 +10,7 @@
   <a href="https://github.com/search?q=is%3Apr+is%3Amerged+author%3ASankeerthNara&type=pullrequests"><b>all merged prs</b></a>
 </p>
 
-Second-year CSE student at **IIIT Hyderabad**. I work on **on-device computer vision** (metric distance for robot grasping on a Snapdragon NPU) and contribute to open source, with **34 merged pull requests in 17 external repositories**, including Microsoft, Mozilla and Google.
+Second-year CSE student at **IIIT Hyderabad**. I work on **on-device computer vision** (metric distance for robot grasping on a Snapdragon NPU) and contribute to open source, with **35 merged pull requests in 18 external repositories**, including Microsoft, Mozilla and Google.
 
 ## Selected work
 
@@ -29,13 +29,13 @@ Second-year CSE student at **IIIT Hyderabad**. I work on **on-device computer vi
 
 ## Open source
 
-<p align="center"><img src="assets/stats.svg" width="100%" alt="34 merged pull requests across 17 external repositories"/></p>
+<p align="center"><img src="assets/stats.svg" width="100%" alt="35 merged pull requests across 18 external repositories"/></p>
 <p align="center"><img src="assets/activity.svg" width="100%" alt="Merged pull requests per month"/></p>
 
 Click a repository to see every merged pull request.
 
 <details open>
-<summary><b>Termix-SSH/Termix</b> · 2 merged · ★ 15,964 · TypeScript</summary>
+<summary><b>Termix-SSH/Termix</b> · 2 merged · ★ 15,984 · TypeScript</summary>
 
 > Self-hosted, plugin-based server management.
 
@@ -45,7 +45,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details open>
-<summary><b>mozilla-mobile/firefox-ios</b> · 4 merged · ★ 13,069 · Swift</summary>
+<summary><b>mozilla-mobile/firefox-ios</b> · 4 merged · ★ 13,070 · Swift</summary>
 
 > Firefox for iOS
 
@@ -57,6 +57,15 @@ Click a repository to see every merged pull request.
 </details>
 
 <details open>
+<summary><b>kornia/kornia</b> · 1 merged · ★ 12,382 · Python</summary>
+
+> 🐍 Geometric Computer Vision Library for Spatial AI
+
+- [#6655](https://github.com/kornia/kornia/pull/6655) fix(augmentation): finite Resize transform for one-pixel axes <sub>2026-11-13</sub>
+
+</details>
+
+<details>
 <summary><b>microsoft/aspire</b> · 5 merged · ★ 6,425 · C#</summary>
 
 > Aspire is the tool for code-first, extensible, observable dev and deploy.
@@ -70,7 +79,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details>
-<summary><b>microsoft/hve-core</b> · 1 merged · ★ 1,615 · PowerShell</summary>
+<summary><b>microsoft/hve-core</b> · 1 merged · ★ 1,616 · PowerShell</summary>
 
 > A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of GitHub Copilot
 
@@ -79,11 +88,22 @@ Click a repository to see every merged pull request.
 </details>
 
 <details>
-<summary><b>google/xrblocks</b> · 1 merged · ★ 515 · TypeScript</summary>
+<summary><b>google/xrblocks</b> · 1 merged · ★ 516 · TypeScript</summary>
 
 > XR Blocks is a lightweight WebXR + AI library for rapidly prototyping advanced AI + XR experiences.
 
 - [#533](https://github.com/google/xrblocks/pull/533) Fix read-buffer composition in OcclusionPass <sub>2026-08-16</sub>
+
+</details>
+
+<details>
+<summary><b>7-Blocks/Kepler</b> · 3 merged · ★ 88 · TypeScript</summary>
+
+> AI-Powered Autonomous Space Traffic Management Platform
+
+- [#142](https://github.com/7-Blocks/Kepler/pull/142) feat(satellites): add interactive spotlight effect for hover/select <sub>2026-07-26</sub>
+- [#119](https://github.com/7-Blocks/Kepler/pull/119) feat: add global keyboard shortcut system <sub>2026-07-22</sub>
+- [#47](https://github.com/7-Blocks/Kepler/pull/47) feat: add custom 404 not found page <sub>2026-07-16</sub>
 
 </details>
 
@@ -93,17 +113,6 @@ Click a repository to see every merged pull request.
 > The Netzgrafik-Editor is a powerful software that enables the creation, modification, and analysis of regular-interval timetable.  
 
 - [#1239](https://github.com/OpenRailAssociation/netzgrafik-editor-frontend/pull/1239) Show language selector in standalone mode <sub>2026-08-18</sub>
-
-</details>
-
-<details>
-<summary><b>7-Blocks/Kepler</b> · 3 merged · ★ 85 · TypeScript</summary>
-
-> AI-Powered Autonomous Space Traffic Management Platform
-
-- [#142](https://github.com/7-Blocks/Kepler/pull/142) feat(satellites): add interactive spotlight effect for hover/select <sub>2026-07-26</sub>
-- [#119](https://github.com/7-Blocks/Kepler/pull/119) feat: add global keyboard shortcut system <sub>2026-07-22</sub>
-- [#47](https://github.com/7-Blocks/Kepler/pull/47) feat: add custom 404 not found page <sub>2026-07-16</sub>
 
 </details>
 
@@ -202,4 +211,4 @@ Click a repository to see every merged pull request.
 
 `Python` `C` `C++` `TypeScript` `Kotlin` `PyTorch` `OpenCV` `YOLO / SAM` `Qualcomm QNN` `FastAPI` `Next.js` `React` `MongoDB` `PostgreSQL` `Linux` `GitHub Actions`
 
-<sub>Refreshed daily by a GitHub Action · last update 2026-11-13</sub>
+<sub>Refreshed daily by a GitHub Action · last update 2026-11-14</sub>

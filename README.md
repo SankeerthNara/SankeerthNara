@@ -35,7 +35,7 @@ Second-year CSE student at **IIIT Hyderabad**. I work on **on-device computer vi
 Click a repository to see every merged pull request.
 
 <details open>
-<summary><b>Termix-SSH/Termix</b> · 2 merged · ★ 15,984 · TypeScript</summary>
+<summary><b>Termix-SSH/Termix</b> · 2 merged · ★ 16,011 · TypeScript</summary>
 
 > Self-hosted, plugin-based server management.
 
@@ -45,7 +45,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details open>
-<summary><b>mozilla-mobile/firefox-ios</b> · 4 merged · ★ 13,070 · Swift</summary>
+<summary><b>mozilla-mobile/firefox-ios</b> · 4 merged · ★ 13,068 · Swift</summary>
 
 > Firefox for iOS
 
@@ -57,7 +57,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details open>
-<summary><b>kornia/kornia</b> · 1 merged · ★ 12,382 · Python</summary>
+<summary><b>kornia/kornia</b> · 1 merged · ★ 12,387 · Python</summary>
 
 > 🐍 Geometric Computer Vision Library for Spatial AI
 
@@ -66,7 +66,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details>
-<summary><b>microsoft/aspire</b> · 5 merged · ★ 6,425 · C#</summary>
+<summary><b>microsoft/aspire</b> · 5 merged · ★ 6,427 · C#</summary>
 
 > Aspire is the tool for code-first, extensible, observable dev and deploy.
 
@@ -88,7 +88,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details>
-<summary><b>google/xrblocks</b> · 1 merged · ★ 516 · TypeScript</summary>
+<summary><b>google/xrblocks</b> · 1 merged · ★ 517 · TypeScript</summary>
 
 > XR Blocks is a lightweight WebXR + AI library for rapidly prototyping advanced AI + XR experiences.
 
@@ -97,9 +97,9 @@ Click a repository to see every merged pull request.
 </details>
 
 <details>
-<summary><b>7-Blocks/Kepler</b> · 3 merged · ★ 88 · TypeScript</summary>
+<summary><b>7-Blocks/Kepler</b> · 3 merged · ★ 94 · TypeScript</summary>
 
-> AI-Powered Autonomous Space Traffic Management Platform
+> Kepler is an AI-powered Orbital Intelligence Platform designed to monitor satellites, track space debris, predict collision risks, and generate autonomous avoidance recommendations.
 
 - [#142](https://github.com/7-Blocks/Kepler/pull/142) feat(satellites): add interactive spotlight effect for hover/select <sub>2026-07-26</sub>
 - [#119](https://github.com/7-Blocks/Kepler/pull/119) feat: add global keyboard shortcut system <sub>2026-07-22</sub>
@@ -211,4 +211,4 @@ Click a repository to see every merged pull request.
 
 `Python` `C` `C++` `TypeScript` `Kotlin` `PyTorch` `OpenCV` `YOLO / SAM` `Qualcomm QNN` `FastAPI` `Next.js` `React` `MongoDB` `PostgreSQL` `Linux` `GitHub Actions`
 
-<sub>Refreshed daily by a GitHub Action · last update 2026-11-14</sub>
+<sub>Refreshed daily by a GitHub Action · last update 2026-11-15</sub>

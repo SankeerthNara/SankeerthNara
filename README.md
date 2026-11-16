@@ -35,7 +35,7 @@ Second-year CSE student at **IIIT Hyderabad**. I work on **on-device computer vi
 Click a repository to see every merged pull request.
 
 <details open>
-<summary><b>Termix-SSH/Termix</b> · 2 merged · ★ 16,011 · TypeScript</summary>
+<summary><b>Termix-SSH/Termix</b> · 2 merged · ★ 16,035 · TypeScript</summary>
 
 > Self-hosted, plugin-based server management.
 
@@ -57,7 +57,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details open>
-<summary><b>kornia/kornia</b> · 1 merged · ★ 12,387 · Python</summary>
+<summary><b>kornia/kornia</b> · 1 merged · ★ 12,388 · Python</summary>
 
 > 🐍 Geometric Computer Vision Library for Spatial AI
 
@@ -66,7 +66,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details>
-<summary><b>microsoft/aspire</b> · 5 merged · ★ 6,427 · C#</summary>
+<summary><b>microsoft/aspire</b> · 5 merged · ★ 6,428 · C#</summary>
 
 > Aspire is the tool for code-first, extensible, observable dev and deploy.
 
@@ -79,7 +79,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details>
-<summary><b>microsoft/hve-core</b> · 1 merged · ★ 1,616 · PowerShell</summary>
+<summary><b>microsoft/hve-core</b> · 1 merged · ★ 1,618 · PowerShell</summary>
 
 > A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of GitHub Copilot
 
@@ -97,7 +97,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details>
-<summary><b>7-Blocks/Kepler</b> · 3 merged · ★ 94 · TypeScript</summary>
+<summary><b>7-Blocks/Kepler</b> · 3 merged · ★ 95 · TypeScript</summary>
 
 > Kepler is an AI-powered Orbital Intelligence Platform designed to monitor satellites, track space debris, predict collision risks, and generate autonomous avoidance recommendations.
 
@@ -211,4 +211,4 @@ Click a repository to see every merged pull request.
 
 `Python` `C` `C++` `TypeScript` `Kotlin` `PyTorch` `OpenCV` `YOLO / SAM` `Qualcomm QNN` `FastAPI` `Next.js` `React` `MongoDB` `PostgreSQL` `Linux` `GitHub Actions`
 
-<sub>Refreshed daily by a GitHub Action · last update 2026-11-15</sub>
+<sub>Refreshed daily by a GitHub Action · last update 2026-11-16</sub>

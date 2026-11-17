@@ -35,7 +35,7 @@ Second-year CSE student at **IIIT Hyderabad**. I work on **on-device computer vi
 Click a repository to see every merged pull request.
 
 <details open>
-<summary><b>Termix-SSH/Termix</b> · 2 merged · ★ 16,035 · TypeScript</summary>
+<summary><b>Termix-SSH/Termix</b> · 2 merged · ★ 16,053 · TypeScript</summary>
 
 > Self-hosted, plugin-based server management.
 
@@ -45,7 +45,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details open>
-<summary><b>mozilla-mobile/firefox-ios</b> · 4 merged · ★ 13,068 · Swift</summary>
+<summary><b>mozilla-mobile/firefox-ios</b> · 4 merged · ★ 13,070 · Swift</summary>
 
 > Firefox for iOS
 
@@ -57,7 +57,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details open>
-<summary><b>kornia/kornia</b> · 1 merged · ★ 12,388 · Python</summary>
+<summary><b>kornia/kornia</b> · 1 merged · ★ 12,392 · Python</summary>
 
 > 🐍 Geometric Computer Vision Library for Spatial AI
 
@@ -66,7 +66,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details>
-<summary><b>microsoft/aspire</b> · 5 merged · ★ 6,428 · C#</summary>
+<summary><b>microsoft/aspire</b> · 5 merged · ★ 6,431 · C#</summary>
 
 > Aspire is the tool for code-first, extensible, observable dev and deploy.
 
@@ -79,7 +79,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details>
-<summary><b>microsoft/hve-core</b> · 1 merged · ★ 1,618 · PowerShell</summary>
+<summary><b>microsoft/hve-core</b> · 1 merged · ★ 1,620 · PowerShell</summary>
 
 > A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of GitHub Copilot
 
@@ -97,7 +97,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details>
-<summary><b>7-Blocks/Kepler</b> · 3 merged · ★ 95 · TypeScript</summary>
+<summary><b>7-Blocks/Kepler</b> · 3 merged · ★ 96 · TypeScript</summary>
 
 > Kepler is an AI-powered Orbital Intelligence Platform designed to monitor satellites, track space debris, predict collision risks, and generate autonomous avoidance recommendations.
 
@@ -117,7 +117,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details>
-<summary><b>Devlaner/loomy</b> · 1 merged · ★ 7 · TypeScript</summary>
+<summary><b>Devlaner/loomy</b> · 1 merged · ★ 8 · TypeScript</summary>
 
 > Loomy is an open-source collaborative whiteboard. Create infinite boards, invite your team, and bring ideas to life in real time
 
@@ -211,4 +211,4 @@ Click a repository to see every merged pull request.
 
 `Python` `C` `C++` `TypeScript` `Kotlin` `PyTorch` `OpenCV` `YOLO / SAM` `Qualcomm QNN` `FastAPI` `Next.js` `React` `MongoDB` `PostgreSQL` `Linux` `GitHub Actions`
 
-<sub>Refreshed daily by a GitHub Action · last update 2026-11-16</sub>
+<sub>Refreshed daily by a GitHub Action · last update 2026-11-17</sub>

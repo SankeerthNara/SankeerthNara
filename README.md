@@ -35,7 +35,7 @@ Second-year CSE student at **IIIT Hyderabad**. I work on **on-device computer vi
 Click a repository to see every merged pull request.
 
 <details open>
-<summary><b>Termix-SSH/Termix</b> · 2 merged · ★ 16,110 · TypeScript</summary>
+<summary><b>Termix-SSH/Termix</b> · 2 merged · ★ 16,116 · TypeScript</summary>
 
 > Self-hosted, plugin-based server management.
 
@@ -45,7 +45,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details open>
-<summary><b>mozilla-mobile/firefox-ios</b> · 4 merged · ★ 13,082 · Swift</summary>
+<summary><b>mozilla-mobile/firefox-ios</b> · 4 merged · ★ 13,083 · Swift</summary>
 
 > Firefox for iOS
 
@@ -57,7 +57,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details open>
-<summary><b>kornia/kornia</b> · 1 merged · ★ 12,406 · Python</summary>
+<summary><b>kornia/kornia</b> · 1 merged · ★ 12,409 · Python</summary>
 
 > 🐍 Geometric Computer Vision Library for Spatial AI
 
@@ -66,7 +66,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details>
-<summary><b>microsoft/aspire</b> · 5 merged · ★ 6,452 · C#</summary>
+<summary><b>microsoft/aspire</b> · 5 merged · ★ 6,454 · C#</summary>
 
 > Aspire is the tool for code-first, extensible, observable dev and deploy.
 
@@ -79,7 +79,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details>
-<summary><b>microsoft/hve-core</b> · 1 merged · ★ 1,637 · PowerShell</summary>
+<summary><b>microsoft/hve-core</b> · 1 merged · ★ 1,644 · PowerShell</summary>
 
 > A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of GitHub Copilot
 
@@ -211,4 +211,4 @@ Click a repository to see every merged pull request.
 
 `Python` `C` `C++` `TypeScript` `Kotlin` `PyTorch` `OpenCV` `YOLO / SAM` `Qualcomm QNN` `FastAPI` `Next.js` `React` `MongoDB` `PostgreSQL` `Linux` `GitHub Actions`
 
-<sub>Refreshed daily by a GitHub Action · last update 2026-11-24</sub>
+<sub>Refreshed daily by a GitHub Action · last update 2026-11-25</sub>

@@ -35,7 +35,7 @@ Second-year CSE student at **IIIT Hyderabad**. I work on **on-device computer vi
 Click a repository to see every merged pull request.
 
 <details open>
-<summary><b>Termix-SSH/Termix</b> · 2 merged · ★ 16,125 · TypeScript</summary>
+<summary><b>Termix-SSH/Termix</b> · 2 merged · ★ 16,135 · TypeScript</summary>
 
 > Self-hosted, plugin-based server management.
 
@@ -45,7 +45,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details open>
-<summary><b>mozilla-mobile/firefox-ios</b> · 4 merged · ★ 13,084 · Swift</summary>
+<summary><b>mozilla-mobile/firefox-ios</b> · 4 merged · ★ 13,085 · Swift</summary>
 
 > Firefox for iOS
 
@@ -57,7 +57,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details open>
-<summary><b>kornia/kornia</b> · 1 merged · ★ 12,411 · Python</summary>
+<summary><b>kornia/kornia</b> · 1 merged · ★ 12,440 · Python</summary>
 
 > 🐍 Geometric Computer Vision Library for Spatial AI
 
@@ -79,7 +79,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details>
-<summary><b>microsoft/hve-core</b> · 1 merged · ★ 1,644 · PowerShell</summary>
+<summary><b>microsoft/hve-core</b> · 1 merged · ★ 1,645 · PowerShell</summary>
 
 > A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of GitHub Copilot
 
@@ -88,7 +88,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details>
-<summary><b>google/xrblocks</b> · 1 merged · ★ 526 · TypeScript</summary>
+<summary><b>google/xrblocks</b> · 1 merged · ★ 527 · TypeScript</summary>
 
 > XR Blocks is a lightweight WebXR + AI library for rapidly prototyping advanced AI + XR experiences.
 
@@ -108,7 +108,7 @@ Click a repository to see every merged pull request.
 </details>
 
 <details>
-<summary><b>OpenRailAssociation/netzgrafik-editor-frontend</b> · 1 merged · ★ 90 · TypeScript</summary>
+<summary><b>OpenRailAssociation/netzgrafik-editor-frontend</b> · 1 merged · ★ 91 · TypeScript</summary>
 
 > The Netzgrafik-Editor is a powerful software that enables the creation, modification, and analysis of regular-interval timetable.  
 
@@ -211,4 +211,4 @@ Click a repository to see every merged pull request.
 
 `Python` `C` `C++` `TypeScript` `Kotlin` `PyTorch` `OpenCV` `YOLO / SAM` `Qualcomm QNN` `FastAPI` `Next.js` `React` `MongoDB` `PostgreSQL` `Linux` `GitHub Actions`
 
-<sub>Refreshed daily by a GitHub Action · last update 2026-11-26</sub>
+<sub>Refreshed daily by a GitHub Action · last update 2026-11-27</sub>

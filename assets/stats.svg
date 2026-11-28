@@ -16,7 +16,7 @@ text{font-family:'Segoe UI', 'Inter', system-ui, -apple-system, sans-serif}
   <text x="0" y="0" fill="#f3f1ec" font-size="40" font-weight="800" letter-spacing="-1">18</text>
   <text x="0" y="24" fill="#9a978f" font-size="13">external repositories</text></g></g>
 <g transform="translate(44 224)"><g class="rise" style="animation-delay:0.44999999999999996s">
-  <text x="0" y="0" fill="#f3f1ec" font-size="40" font-weight="800" letter-spacing="-1">50k</text>
+  <text x="0" y="0" fill="#f3f1ec" font-size="40" font-weight="800" letter-spacing="-1">51k</text>
   <text x="0" y="24" fill="#9a978f" font-size="13">combined stars of those repos</text></g></g>
 <line x1="372" y1="40" x2="372" y2="260" stroke="#2a2a2a"/>
 <text x="404" y="52" fill="#9a978f" font-size="14" class="rise">merged prs per repository</text>
